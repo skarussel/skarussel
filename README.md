@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Steven
-- 👀 I’m interested in Machine Learning, Explainable AI and Fullstack Development.
+- 👀 I’m interested in Machine Learning, Explainable AI and Software Development.
 - 🌱 I’m currently learning ReactJS in the Fullstack Development Course of the University of Helsinki.
 - 💞️ I’m looking to collaborate on Python-based projects.
 - 📫 How to reach me steven.kocadag@gmail.com
